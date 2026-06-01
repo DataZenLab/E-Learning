@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.description {
+  text-align: center;
+}
+
+/* Page Component: chỉ dùng selector class để tránh lỗi "Pure selectors" của Next */
+
